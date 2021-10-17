@@ -342,9 +342,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -0.44302762, y: 2.6582427, z: 0}
+    m_Target: {x: -3.13291, y: 4.620264, z: 0}
     speed: 2
-    m_Value: {x: -0.44302762, y: 2.6582427, z: 0}
+    m_Value: {x: -3.13291, y: 4.620264, z: 0}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
